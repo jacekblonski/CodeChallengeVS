@@ -1,0 +1,37 @@
+﻿@charset "utf-8";
+
+.centered-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}
+
+.error-message {
+    color: red;
+    margin: 0;
+}
+
+.input-line {
+    padding-bottom: 8px;
+    display: block;
+    text-align: right;
+}
+
+.input-line label {
+    padding-right: 1em;
+}
+
+.input-line input {
+    padding: 2px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.required{
+    color: red;
+    font-weight: bolder;
+}
