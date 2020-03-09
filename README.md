@@ -6,7 +6,7 @@ Solution and project files for Visual Studio are included but both projects can 
 
 Question 1:
 
-1) You will need to download and install .NET Core 3.1 SDK or later (https://dotnet.microsoft.com/download/dotnet-core/3.1)
+1) You will need to download and install [.NET Core 3.1 SDK or later](https://dotnet.microsoft.com/download/dotnet-core/3.1).
 2) Download the project folder
 3) Set "FilePath" in appsettings.Development.json to where you want messages to be saved
 4) Open the command line and change directory to the project folder
