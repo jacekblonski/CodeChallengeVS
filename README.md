@@ -1,5 +1,5 @@
 # CodeChallengeVS
-=================
+
 Installation
 -------------
 Solution and project files for Visual Studio are included but both projects can also be run without needing Visual Studio:
